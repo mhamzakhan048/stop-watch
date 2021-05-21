@@ -1,0 +1,35 @@
+  body{
+      background: lightgray;
+  }
+
+  /* .circle{
+    background: lime;
+    border-radius: 200px;
+    margin-left: 420px;
+    width: 400px;
+    height: 400px;
+} */
+
+  h1{
+    /* text-align: center; */
+    padding: 5px;
+    display: inline;
+    font-size: 45pt;
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    border-radius: 15px;
+}
+
+button {
+    padding: 10px;
+    background: transparent;
+    text-shadow: 1px 1px 1px #202020;
+    font-family: "Lato", sans-serif;
+    font-size: 20pt;
+    border: 2px solid lightblue;
+    border-radius: 30px;
+    color: lightblue;
+  }
+
+
+  
